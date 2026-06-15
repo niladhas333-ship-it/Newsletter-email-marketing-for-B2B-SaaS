@@ -21,8 +21,8 @@ actively run email campaigns and teach from real experience.
 | Nathan Barry | ConvertKit founder, builds in public on email growth |
 
 ## What's Collected
-- 10 LinkedIn posts (3 per expert)
-- 7 YouTube transcripts (collected via API)
+- 10 LinkedIn posts (6 per expert)
+- 4 YouTube transcripts (collected via API)
 - Full source list in /research/sources.md
 
 ## Repository Structure
