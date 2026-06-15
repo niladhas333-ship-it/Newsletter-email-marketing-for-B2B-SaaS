@@ -1,5 +1,3 @@
-# Expert Sources - Newsletter-email-marketing-for-B2B-SaaS
-(filling shortly)
 # Newsletter & Email Marketing for B2B SaaS - Research Repository
 
 ## What This Is
