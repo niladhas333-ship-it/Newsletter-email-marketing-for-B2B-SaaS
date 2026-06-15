@@ -30,3 +30,6 @@ actively run email campaigns and teach from real experience.
 /research/linkedin-posts/          - Posts by author  
 /research/youtube-transcripts/     - Transcripts by video
 /research/other/                   - Additional materials
+
+
+
